@@ -53,7 +53,7 @@ const Home = () => {
           </a>
         </div>
         <a
-          href="https://drive.google.com/file/d/1XcJtt9LTESGvv-QneeBT1A_xtFA-RnnI/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/1vjf8Vu1pY2IcmRdWDA50f3nNk1qwdW07/view?usp=sharing"
           className="btn"
         >
           Download CV
